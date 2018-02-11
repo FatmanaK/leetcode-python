@@ -7,6 +7,7 @@ My attempt at leetcode exercises in Python
 | 1 | Two Sum | [Problem](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/two_sum.py) |
 | 2 | Add Two Numbers | [Problem](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/add_two_numbers.py) |
 | 3 | Longest Substring Without Repeating Characters | [Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/longest_substring_without_repeating_characters.py) |
+| 4 | Median of Two Sorted Arrays | [Problem](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/median_of_two_sorted_arrays.py) |
 | 5 | Longest Palindromic Substring | [Problem](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/longest_palindromic_substring.py) |
 | 6 | ZigZag Conversion | [Problem](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/zigzag_conversion.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/multiply_strings.py) |
@@ -15,4 +16,3 @@ My attempt at leetcode exercises in Python
 | 76 | Minimum Window Substring | [Problem](https://leetcode.com/problems/minimum-window-substring/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/minimum_window_substring.py) |
 
 <!-- | | | [Problem]() | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/) | -->
-
