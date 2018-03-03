@@ -13,6 +13,7 @@ My attempt at leetcode exercises in Python
 | 7 | Reverse Integer | [Problem](https://leetcode.com/problems/reverse-integer/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/reverse_integer.py) |
 | 8 | String to Integer (atoi) | [Problem](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/string_to_integer_atoi.py) |
 | 9 | Palindrome Number | [Problem](https://leetcode.com/problems/palindrome-number/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/palindrome_number.py) |
+| 10 | Regular Expression Matching | [Problem](https://leetcode.com/problems/regular-expression-matching/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/regular_expression_matching.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/text_justification.py) | 
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](https://github.com/v1n337/leetcode-python/blob/master/solutions/substring_with_concatenation_of_all_words.py) |
