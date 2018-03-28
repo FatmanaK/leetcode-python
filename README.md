@@ -20,6 +20,7 @@ My attempt at leetcode exercises in Python
 | 14 | Longest Common Prefix | [Problem](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](solutions/longest_common_prefix.py) |
 | 15 | 3Sum | [Problem](https://leetcode.com/problems/3sum/description/) | [Solution](solutions/3sum.py) |
 | 16 | 3Sum Closest | [Problem](https://leetcode.com/problems/3sum-closest/description/) | [Solution](solutions/3sum_closest.py) |
+| 17 | Letter Combinations of a Phone Number | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](solutions/letter_combinations_of_a_phone_number.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
