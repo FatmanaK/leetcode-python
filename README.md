@@ -23,6 +23,7 @@ My attempt at leetcode exercises in Python
 | 17 | Letter Combinations of a Phone Number | [Problem](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](solutions/letter_combinations_of_a_phone_number.py) |
 | 18 | 4Sum | [Problem](https://leetcode.com/problems/4sum/description/) | [Solution](solutions/4sum.py) |
 | 19 | Remove Nth Node From End of List | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Solution](solutions/remove_nth_node_from_end_of_list.py) |
+| 20 | Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](solutions/valid_parentheses.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
