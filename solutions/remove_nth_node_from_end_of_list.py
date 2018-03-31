@@ -34,7 +34,7 @@ class Solution:
 
 def main():
 
-    def get_list(values):
+    def get_nodes(values):
         next_node = None
         for value in values[::-1]:
             node = ListNode(value)
@@ -43,7 +43,7 @@ def main():
 
         return next_node
 
-    def get_nodes(head):
+    def get_list(head):
         node = head
         nodes = list()
         while node:
@@ -52,10 +52,10 @@ def main():
         return nodes
     
     solution = Solution()
-    assert get_nodes(solution.removeNthFromEnd(get_list([0]), 1)) == []
-    assert get_nodes(solution.removeNthFromEnd(get_list([0, 1]), 2)) == [1]
-    assert get_nodes(solution.removeNthFromEnd(get_list([0, 1, 2, 3, 4]), 2)) == [0, 1, 2, 4] 
-    assert get_nodes(solution.removeNthFromEnd(get_list([0, 1, 2, 3, 4]), 5)) == [1, 2, 3, 4]
+    assert get_list(solution.removeNthFromEnd(get_nodes([0]), 1)) == []
+    assert get_list(solution.removeNthFromEnd(get_nodes([0, 1]), 2)) == [1]
+    assert get_list(solution.removeNthFromEnd(get_nodes([0, 1, 2, 3, 4]), 2)) == [0, 1, 2, 4] 
+    assert get_list(solution.removeNthFromEnd(get_nodes([0, 1, 2, 3, 4]), 5)) == [1, 2, 3, 4]
 
 if __name__ == '__main__':
     main()
