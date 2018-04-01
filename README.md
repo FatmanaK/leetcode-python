@@ -25,6 +25,7 @@ My attempt at leetcode exercises in Python
 | 19 | Remove Nth Node From End of List | [Problem](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Solution](solutions/remove_nth_node_from_end_of_list.py) |
 | 20 | Valid Parentheses | [Problem](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](solutions/valid_parentheses.py) |
 | 21 | Merge Two Sorted Lists | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](solutions/merge_two_sorted_lists.py) |
+| 22 | Generate Parentheses | [Problem](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](solutions/generate_parentheses.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
