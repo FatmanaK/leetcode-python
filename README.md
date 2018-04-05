@@ -27,6 +27,7 @@ My attempt at leetcode exercises in Python
 | 21 | Merge Two Sorted Lists | [Problem](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](solutions/merge_two_sorted_lists.py) |
 | 22 | Generate Parentheses | [Problem](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](solutions/generate_parentheses.py) |
 | 23 | Merge k Sorted Lists | [Problem](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](solutions/merge_k_sorted_lists.py) |
+| 24 | Swap Nodes in Pairs | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](solutions/swap_nodes_in_pairs.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
