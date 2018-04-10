@@ -29,9 +29,10 @@ My attempt at leetcode exercises in Python
 | 23 | Merge k Sorted Lists | [Problem](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](solutions/merge_k_sorted_lists.py) |
 | 24 | Swap Nodes in Pairs | [Problem](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](solutions/swap_nodes_in_pairs.py) |
 | 25 | Reverse Nodes in k-Group | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Solution](solutions/reverse_nodes_in_k_group.py) |
+| 26 | Remove Duplicates from Sorted Array | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](solutions/remove_duplicates_from_sorted_array.py) |
+| 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
-| 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
 | 76 | Minimum Window Substring | [Problem](https://leetcode.com/problems/minimum-window-substring/description/) | [Solution](solutions/minimum_window_substring.py) |
 
 <!-- | | | [Problem]() | [Solution](solutions/) | -->
