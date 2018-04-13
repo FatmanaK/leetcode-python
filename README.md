@@ -31,6 +31,7 @@ My attempt at leetcode exercises in Python
 | 25 | Reverse Nodes in k-Group | [Problem](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Solution](solutions/reverse_nodes_in_k_group.py) |
 | 26 | Remove Duplicates from Sorted Array | [Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Solution](solutions/remove_duplicates_from_sorted_array.py) |
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
+| 31 | Next Permutation | [Problem](https://leetcode.com/problems/next-permutation/description/) | [Solution](solutions/next_permutation.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
 | 76 | Minimum Window Substring | [Problem](https://leetcode.com/problems/minimum-window-substring/description/) | [Solution](solutions/minimum_window_substring.py) |
