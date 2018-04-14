@@ -33,6 +33,7 @@ My attempt at leetcode exercises in Python
 | 30 | Substring with Concatenation of All Words | [Problem](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/) | [Solution](solutions/substring_with_concatenation_of_all_words.py) |
 | 31 | Next Permutation | [Problem](https://leetcode.com/problems/next-permutation/description/) | [Solution](solutions/next_permutation.py) |
 | 32 | Longest Valid Parentheses | [Problem](https://leetcode.com/problems/longest-valid-parentheses/description/) | [Solution](solutions/longest_valid_parentheses.py) |
+| 33 | Search in Rotated Sorted Array | [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](solutions/search_in_rotated_sorted_array.py) |
 | 43 | Multiply Strings | [Problem](https://leetcode.com/problems/multiply-strings/description/) | [Solution](solutions/multiply_strings.py) |
 | 68 | Text Justification | [Problem](https://leetcode.com/problems/text-justification/description/) | [Solution](solutions/text_justification.py) | 
 | 76 | Minimum Window Substring | [Problem](https://leetcode.com/problems/minimum-window-substring/description/) | [Solution](solutions/minimum_window_substring.py) |
