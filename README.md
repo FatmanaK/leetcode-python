@@ -38,8 +38,9 @@ My attempt at leetcode exercises in Python
 | 35  | Search Insert Position                         | [Problem](https://leetcode.com/problems/search-insert-position/description/)                         | [Solution](solutions/search_insert_position.py)                         |
 | 36  | Valid Sudoku                                   | [Problem](https://leetcode.com/problems/valid-sudoku/description/)                                   | [Solution](solutions/valid_sudoku.py)                                   |
 | 37  | Sudoku Solver                                  | [Problem](https://leetcode.com/problems/sudoku-solver/description/)                                  | [Solution](solutions/sudoku_solver.py)                                  |
+| 38  | Count and Say                                  | [Problem](https://leetcode.com/problems/count-and-say/description/)                                  | [Solution](solutions/count_and_say.py)                                  |
 | 43  | Multiply Strings                               | [Problem](https://leetcode.com/problems/multiply-strings/description/)                               | [Solution](solutions/multiply_strings.py)                               |
 | 68  | Text Justification                             | [Problem](https://leetcode.com/problems/text-justification/description/)                             | [Solution](solutions/text_justification.py)                             |  |
 | 76  | Minimum Window Substring                       | [Problem](https://leetcode.com/problems/minimum-window-substring/description/)                       | [Solution](solutions/minimum_window_substring.py)                       |
 
-<!-- | | | [Problem]() | [Solution](solutions/) | -->
+<!-- |  | | [Problem]() | [Solution](solutions/) | -->
