@@ -44,6 +44,7 @@ My attempt at leetcode exercises in Python
 | 41  | First Missing Positive                         |             [Problem](https://leetcode.com/problems/first-missing-positive/)             |             [Solution](solutions/first_missing_positive.py)             |
 | 42  | Trapping Rain Water                            |              [Problem](https://leetcode.com/problems/trapping-rain-water/)               |              [Solution](solutions/trapping_rain_water.py)               |
 | 43  | Multiply Strings                               |                [Problem](https://leetcode.com/problems/multiply-strings/)                |                [Solution](solutions/multiply_strings.py)                |
+| 44  | Wildcard Matching                              |               [Problem](https://leetcode.com/problems/wildcard-matching/)                |               [Solution](solutions/wildcard_matching.py)                |
 | 68  | Text Justification                             |               [Problem](https://leetcode.com/problems/text-justification/)               |               [Solution](solutions/text_justification.py)               |  |
 | 76  | Minimum Window Substring                       |            [Problem](https://leetcode.com/problems/minimum-window-substring/)            |            [Solution](solutions/minimum_window_substring.py)            |
 
