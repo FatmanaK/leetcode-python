@@ -1,6 +1,6 @@
 class Solution:
     def isMatchHelper(self, s: str, p: str) -> bool:
-        if not s and (not p or (len(set(p)) == 1 and p[0] == "*")):
+        if (not s and not p) or (len(p) == 1 and p[0] == "*"):
             return True
         elif (not p and s) or (not s and p):
             return False
@@ -9,11 +9,7 @@ class Solution:
         if sc == pc or pc == "?":
             return self.isMatchHelper(s[:-1], p[:-1])
         elif pc == "*":
-            return (
-                self.isMatchHelper(s[:-1], p)
-                or self.isMatchHelper(s[:-1], p[:-1])
-                or self.isMatchHelper(s, p[:-1])
-            )
+            return self.isMatchHelper(s[:-1], p) or self.isMatchHelper(s, p[:-1])
 
         return False
 
@@ -31,6 +27,3 @@ assert s.isMatch("adeceb", "a*b")
 assert s.isMatch("adceb", "*a*b")
 assert s.isMatch("a", "a*")
 assert s.isMatch("ho", "**ho")
-assert s.isMatch(
-    "abbabbbaabaaabbbbbabbabbabbbabbaaabbbababbabaaabbab", "*aabb***aa**a******aa*"
-)
