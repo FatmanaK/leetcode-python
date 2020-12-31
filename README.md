@@ -50,5 +50,6 @@ My attempt at leetcode exercises in Python
 | 68  | Text Justification                             |               [Problem](https://leetcode.com/problems/text-justification/)               |               [Solution](solutions/text_justification.py)               |  |
 | 76  | Minimum Window Substring                       |            [Problem](https://leetcode.com/problems/minimum-window-substring/)            |            [Solution](solutions/minimum_window_substring.py)            |
 | 164 | Maximum Gap                                    |                  [Problem](https://leetcode.com/problems/maximum-gap/)                   |                  [Solution](solutions/maximum_gap.py)                   |
+| 559 | Maximum Depth of N-ary Tree                    |          [Problem](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)           |          [Solution](solutions/maximum_depth_of_n_ary_tree.py)           |
 
 <!-- |  | | [Problem]() | [Solution](solutions/) | -->
